@@ -1,7 +1,7 @@
 import socket
 import time
 import sys
-SERVER_IP = "192.168.137.67" #IP address of raspberry
+SERVER_IP = "192.168.137.10" #IP address of raspberry
 SERVER_PORT = 8888
 print("Starting socket: TCP...")
 server_addr = (SERVER_IP, SERVER_PORT)
